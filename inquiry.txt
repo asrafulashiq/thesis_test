@@ -1,0 +1,73 @@
+
+Inquiry:
+-------
+
+1) 
+    What is accelerometer data ax ay az
+    How are they calculated
+    Relationship between them and motion of a person
+    Relationship between ax, ay, az
+
+
+2)
+    What is PPG
+    What is ECG
+    What information ECG contain
+    Relationship between ECG and PPG
+    Range of heart-rate
+
+
+3)
+    What is motion artifact
+    Cause of motion artifact
+    Frequency range of motion artifact
+    Does accelerometer contains motion artifact data 
+        if does, how and how much
+        correlation between a_xyz and motion artifact
+    Can motion artifact be detected clearly 
+
+
+4)
+    What is RLS algorithm
+    How RLS algorithm can remove noise from a signal
+    Can motion artifact be considered as noise
+        if so, how
+        is there any one-to-one relationship between motion artifact and axyz
+    Is ECG signal uncorrelated with motion artifact / axyz
+
+
+5)
+    What are the methods existed for removing motion artifact from PPG
+        Note all of them down
+        Note their merits and demerits and accuracies
+    Implement important methods in our code and analyze the result
+
+
+6)
+    What is constraint in cost function
+    Study different cost function 
+    Study constraint minimization
+    Study Matrix calculas
+    
+
+7) 
+    Develop a cost function and constraint for PPG signal to reduce motion artifact
+    See the result
+        if result degrades, for what assumption
+        if result improves, why
+
+
+
+
+
+THINK A LOT.....
+THINKING MAKES ONE WISE......
+SEE FIGURES......
+SEEING IS MORE EFFICIENT THAN CALCULATING....
+
+
+
+
+
+
+
